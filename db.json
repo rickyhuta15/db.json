@@ -1,0 +1,200 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": " Cat PermaCoat",
+      "harga": 775000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Alat Gergaji",
+      "harga": 79000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 21,
+      "kode": "K-21",
+      "nama": "Kayu Meranti",
+      "harga": 100000,
+      "is_ready": true,
+      "gambar": ""
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Cat PermaCoat",
+      "harga": 775000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Cat Decolus",
+      "harga": 799000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Cat Woodstain",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "800000"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Cat Nippont",
+      "harga": 64000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Cat Jotun",
+      "harga": 69000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Cat Avian",
+      "harga": 100000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Cat Glo-Tex",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Cat Danalac",
+      "harga": 45000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Cat kayu Meni",
+      "harga": 44000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "Alat Sekop",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Alat Gergaji",
+      "harga": 79000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "Alat Palu",
+      "harga": 65000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 13,
+      "kode": "K-13",
+      "nama": "Paku",
+      "harga": 1000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 14,
+      "kode": "K-14",
+      "nama": "Alat Drill",
+      "harga": 69000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 15,
+      "kode": "K-15",
+      "nama": "Semen",
+      "harga": 100000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 16,
+      "kode": "K-16",
+      "nama": "Kayu Jati",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 17,
+      "kode": "K-17",
+      "nama": "Kayu Glugu",
+      "harga": 79000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 18,
+      "kode": "K-18",
+      "nama": "Kayu Kamper",
+      "harga": 65000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 19,
+      "kode": "K-19",
+      "nama": "Kayu Bengkirai",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 20,
+      "kode": "K-20",
+      "nama": "Kayu Merbau",
+      "harga": 69000,
+      "is_ready": true,
+      "gambar": ""
+    },
+    {
+      "id": 21,
+      "kode": "K-21",
+      "nama": "Kayu Meranti",
+      "harga": 100000,
+      "is_ready": true,
+      "gambar": ""
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
